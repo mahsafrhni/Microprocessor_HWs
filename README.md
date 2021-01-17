@@ -1,4 +1,4 @@
 # Microprocessor_HWs
-microprocessor and assembly language
-winter 2020
+Microprocessor and Assembly language Course,
+winter 2020,
 Dr Dara Rahmati
